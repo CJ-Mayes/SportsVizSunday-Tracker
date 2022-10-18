@@ -37,4 +37,12 @@ except BaseException as e:
     print('Status Failed On,', str(e))
 
 tweets_df.to_csv('SportsVizSunday_Latest.csv', encoding='utf-8', index=False)
-pd.read_csv('SportsVizSunday_Archive.csv').append(tweets_df).drop_duplicates().to_csv('SportsVizSunday_Archive.csv')
+
+# Read the history as a df
+data = pd.read_csv("SportsVizSunday_Archive.csv")
+
+# Append the latest df as new df
+df3 = tweets_df.append(data, ignore_index=True)
+
+# Export the history
+df3.to_csv("SportsVizSunday_Archive.csv", encoding='utf-8', index=False)
