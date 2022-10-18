@@ -2,6 +2,8 @@ import os
 import pandas as pd
 import tweepy
 
+print('hi')
+
 consumer_key = os.environ.get('CONSUMER_KEY')
 consumer_secret = os.environ.get('CONSUMER_SECRET') # Your API/Consumer Secret Key
 access_token = os.environ.get('ACCESS_TOKEN') # Your Access token key
@@ -20,7 +22,7 @@ search_query = "SportsVizSunday"
 no_of_tweets = 99999
 
 try:
-    # The number of tweets we want to retrieved from the search
+    # The number of tweets we want to retrieve from the search
     tweets = api.search_tweets(q=search_query, count=no_of_tweets)
 
     # Pulling Some attributes from the tweet
@@ -35,5 +37,4 @@ try:
 except BaseException as e:
     print('Status Failed On,', str(e))
 
-print(tweets_df)
 tweets_df.to_csv('SportsVizSunday_Data.csv', encoding='utf-8', index=False)
