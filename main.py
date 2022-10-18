@@ -44,7 +44,7 @@ data = pd.read_csv("SportsVizSunday_Archive.csv")
 # Append the latest df as new df
 df3 = pd.concat([data, tweets_df], ignore_index=True, sort=False)
 
-df3 = df3.drop_duplicates(keep='last')
+df3 = df3.apply(lambda x: x.astype(str).str.lower()).drop_duplicates(subset=['User', 'Tweet'], keep='first')
 
 # Export the history
 df3.to_csv("SportsVizSunday_Archive.csv", encoding='utf-8', index=False)
