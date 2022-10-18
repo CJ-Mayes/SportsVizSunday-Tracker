@@ -1,18 +1,12 @@
 import os
+import secrets
 import pandas as pd
 import tweepy
 
-print('hi')
-
-consumer_key = os.environ.get('CONSUMER_KEY')
-consumer_secret = os.environ.get('CONSUMER_SECRET') # Your API/Consumer Secret Key
-access_token = os.environ.get('ACCESS_TOKEN') # Your Access token key
-access_token_secret = os.environ.get('ACCESS_TOKEN_SECRET')  # Your Access token Secret key
-
 # Pass in our twitter API authentication key
 auth = tweepy.OAuth1UserHandler(
-    consumer_key, consumer_secret,
-    access_token, access_token_secret
+    secrets.consumer_key, secrets.consumer_secret,
+    secrets.access_token, secrets.access_token_secret
 )
 
 # Instantiate the tweepy API
