@@ -36,3 +36,5 @@ except BaseException as e:
     print('Status Failed On,', str(e))
 
 tweets_df.to_csv('SportsVizSunday_Data.csv', encoding='utf-8', index=False)
+
+pd.read_csv('SportsVizSunday_Data.csv').append(tweets_df).drop_duplicates().to_csv('file')
