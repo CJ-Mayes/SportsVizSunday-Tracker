@@ -37,3 +37,4 @@ except BaseException as e:
     print('Status Failed On,', str(e))
 
 tweets_df.to_csv('SportsVizSunday_Latest.csv', encoding='utf-8', index=False)
+tweets_df.to_csv('SportsVizSunday_Archive.csv', encoding='utf-8', index=False)
