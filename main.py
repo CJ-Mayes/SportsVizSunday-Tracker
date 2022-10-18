@@ -42,7 +42,7 @@ tweets_df.to_csv('SportsVizSunday_Latest.csv', encoding='utf-8', index=False)
 data = pd.read_csv("SportsVizSunday_Archive.csv")
 
 # Append the latest df as new df
-df3 = tweets_df.append(data, ignore_index=True)
+df3 = pd.concat([data, tweets_df], ignore_index=True, sort=False)
 
 #de dupe the dataframe
 df3.drop_duplicates()
