@@ -45,7 +45,7 @@ data = pd.read_csv("SportsVizSunday_Archive.csv")
 df3 = tweets_df.append(data, ignore_index=True)
 
 #de dupe the dataframe
-df3 = df3.drop_duplicates()
+df3.drop_duplicates()
 
 # Export the history
 df3.to_csv("SportsVizSunday_Archive.csv", encoding='utf-8', index=False)
