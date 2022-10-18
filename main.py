@@ -1,5 +1,4 @@
 import os
-import secrets
 import pandas as pd
 import tweepy
 
