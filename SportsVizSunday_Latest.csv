@@ -1,99 +1,90 @@
 User,Screen Name,Location,Profile Description,Profile Image,Following,Followers,Url,Date Created,Number of Retweets,Number of Likes,Source of Tweet,Tweet,Truncated Flag,Tweet Hashtags,Reply to Status,Quote Flag
-Will Sutton,WJSutton12,"London, England",#IronViz 2022 Champion | #Tableau Visionary | @tableaupublic Ambassador | Consultant at @infolabUK | 9 x #VizOfTheDay | #GamesNightViz,https://pbs.twimg.com/profile_images/1538979672314232832/VOPcgotu_normal.jpg,1044,2691,https://t.co/EfdjVnho3e,2023-02-26 20:54:24+00:00,0,2,Twitter Web App,"If you liked that viz check out the collab datasets we have available with #SportsVizSunday 🏅
+CJ Mayes,_CJMayes,"London, UK",https://t.co/ITRPJUaFVr | Tableau Visionary & Ambassador | #SportsVizSunday | @JLL,https://pbs.twimg.com/profile_images/1631416501721874433/fDSWIvFL_normal.jpg,1901,4205,https://t.co/ymums8NRjv,2023-03-05 20:12:59+00:00,2,0,Twitter for iPhone,"RT @SimonBeaumont04: 📣 New #SportsVizSunday weekly roundup
+
+Now the carnage at Anfield has finished, sit back and get your weekly fix of sp…",False,"[{'text': 'SportsVizSunday', 'indices': [27, 43]}]",,False
+Simon Beaumont,SimonBeaumont04,"Liss, England",JLL B.I Director | #Tableau Visionary & Ambassador | #IronViz 2020 finalist | #Tableau Desktop Certified | Co-lead #SportsVizSunday,https://pbs.twimg.com/profile_images/1547318445854933000/CkmdUugA_normal.jpg,1343,5920,https://t.co/OOWzMLveG7,2023-03-05 18:54:09+00:00,2,15,Twitter Web App,"📣 New #SportsVizSunday weekly roundup
+
+Now the carnage at Anfield has finished, sit back and get your weekly fix of… https://t.co/oubOm9dk00",True,"[{'text': 'SportsVizSunday', 'indices': [6, 22]}]",,False
+Frederic Fery,fredffery,Meanjin Brisbane Australia,"#tableau  Ambassador | 5x #VOTD | Viz 👉 politics, sport, Aussie social issues | #VizforSocialGood Director | 🇫🇷 in 🇦🇺",https://pbs.twimg.com/profile_images/1441016624203513857/ZpW4cykU_normal.jpg,4508,2733,https://t.co/vHPNjJGcWR,2023-03-05 01:46:32+00:00,0,14,Twitter Web App,"Yesterday's data viz didn't last too long 😆, quickly updated
+
+@KMbappe  is now @PSG_English all-time leading scorer… https://t.co/k87GhvU6YU",True,[],,False
+WRLD,prodbywrld,"Free State, South Africa  🇿🇦",,https://pbs.twimg.com/profile_images/1283386314126221312/0EmMdKX9_normal.jpg,100,180,,2023-03-03 21:46:59+00:00,2,0,Twitter for Android,"RT @_CJMayes: Plotting expected goals (xG) in Tableau using Understat data ⚽️
+#SportsVizSunday
+
+https://t.co/rPfpmVQlBE",False,"[{'text': 'SportsVizSunday', 'indices': [78, 94]}]",,False
+Nicole Klassen,NicoleKlassen12,"Atlanta, GA",#DataFamCon | #Tableau Visionary | 4x #VOTD | #Vizzie Notable Newbie '22 | Tableau Public Ambassador | MentalHealth Advocate | Views are my own,https://pbs.twimg.com/profile_images/1367547681195913218/uotH66fZ_normal.jpg,1085,1632,https://t.co/KYxYMfEcbY,2023-03-03 13:34:38+00:00,3,0,Twitter for Android,"RT @fredffery: New ⚽️dataViz
+Celebrating @KMbappe 200 Goals with @PSG_English @PSG_inside 
+
+https://t.co/WgJtoMVtHc
+
+Made with @tableau #Sp…",False,[],,False
+Abas📊,A_Nkanang,"Uyo, Nigeria","Data📊 || Tableau Student Ambassador '22 || Computer engineering student || I communicate insights using data visualizations.
+
+MUFC❤️",https://pbs.twimg.com/profile_images/1609510197235433473/CL_WsgM0_normal.jpg,207,258,,2023-03-03 12:19:16+00:00,3,0,Twitter for Android,"RT @fredffery: New ⚽️dataViz
+Celebrating @KMbappe 200 Goals with @PSG_English @PSG_inside 
+
+https://t.co/WgJtoMVtHc
+
+Made with @tableau #Sp…",False,[],,False
+Frederic Fery,fredffery,Meanjin Brisbane Australia,"#tableau  Ambassador | 5x #VOTD | Viz 👉 politics, sport, Aussie social issues | #VizforSocialGood Director | 🇫🇷 in 🇦🇺",https://pbs.twimg.com/profile_images/1441016624203513857/ZpW4cykU_normal.jpg,4508,2733,https://t.co/vHPNjJGcWR,2023-03-03 07:25:24+00:00,3,30,Twitter Web App,"New ⚽️dataViz
+Celebrating @KMbappe 200 Goals with @PSG_English @PSG_inside 
+
+https://t.co/WgJtoMVtHc
+
+Made with… https://t.co/z75R17Xu7Z",True,[],,False
+WRLD,prodbywrld,"Free State, South Africa  🇿🇦",,https://pbs.twimg.com/profile_images/1283386314126221312/0EmMdKX9_normal.jpg,100,180,,2023-03-03 05:27:06+00:00,2,0,Twitter for Android,"RT @_CJMayes: How to create pass networks using Tableau &amp; Alteryx #SportsVizSunday
+
+https://t.co/37V4waXK0T",False,"[{'text': 'SportsVizSunday', 'indices': [70, 86]}]",,False
+WRLD,prodbywrld,"Free State, South Africa  🇿🇦",,https://pbs.twimg.com/profile_images/1283386314126221312/0EmMdKX9_normal.jpg,100,180,,2023-03-03 05:26:22+00:00,9,0,Twitter for Android,"RT @_CJMayes: Goal Sequences in Tableau ⚽️ #SportsVizSunday 
+
+https://t.co/zk6sHaSrwa",False,"[{'text': 'SportsVizSunday', 'indices': [43, 59]}]",,False
+caroline yam,yam_caroline,"Sydney, Australia",Bringing together the #Datafam Community across Asia Pacific and Europe | 🍉 Please send food noodes | All thought nuggets are me,https://pbs.twimg.com/profile_images/1154300244106121216/mnD3BgSc_normal.jpg,1401,1141,https://t.co/a8SOXthqlp,2023-03-02 19:10:15+00:00,9,0,Twitter for Android,"RT @_CJMayes: Goal Sequences in Tableau ⚽️ #SportsVizSunday 
+
+https://t.co/zk6sHaSrwa",False,"[{'text': 'SportsVizSunday', 'indices': [43, 59]}]",,False
+Chimdi Nwosu,menscuriosa,BC Canada,Dataviz 😍 | Tableau Visionary | 7 × #VOTD | 6 x Vizzies | https://t.co/H59ouL3fFW | VizSight Analytics Inc. 📈 | Co-lead @DuboisChallenge and @AnalyticsTug,https://pbs.twimg.com/profile_images/1447290504995958786/ASQSzfGh_normal.jpg,1431,3876,https://t.co/OIoPh4Daiy,2023-03-02 19:01:41+00:00,9,0,Twitter Web App,"RT @_CJMayes: Goal Sequences in Tableau ⚽️ #SportsVizSunday 
+
+https://t.co/zk6sHaSrwa",False,"[{'text': 'SportsVizSunday', 'indices': [43, 59]}]",,False
+Simon Rowe,mrroweuk,London,data storyteller and @tableau enthusiast | Tableau Desktop Certified Associate | 4 x #VOTD | @tonbridgeangels | Views are my own,https://pbs.twimg.com/profile_images/2363957398/image_normal.jpg,1702,1865,https://t.co/WrO1tFL0a5,2023-03-02 17:39:01+00:00,9,0,Twitter for iPhone,"RT @_CJMayes: Goal Sequences in Tableau ⚽️ #SportsVizSunday 
+
+https://t.co/zk6sHaSrwa",False,"[{'text': 'SportsVizSunday', 'indices': [43, 59]}]",,False
+NISCIENT,theuntruefact,Nigeria,language student||data analyst||Excel||SQL||Tableau||PowerBI||Otaku. MADRIDSTA,https://pbs.twimg.com/profile_images/1629054871637827587/oXw4lDk-_normal.jpg,767,202,,2023-03-02 14:19:19+00:00,9,0,Twitter for iPhone,"RT @_CJMayes: Goal Sequences in Tableau ⚽️ #SportsVizSunday 
+
+https://t.co/zk6sHaSrwa",False,"[{'text': 'SportsVizSunday', 'indices': [43, 59]}]",,False
+Anmol Durgapal,slothfulwave612,India,🦥,https://pbs.twimg.com/profile_images/1426544064581668867/_5qvXvqn_normal.jpg,1665,2055,,2023-03-02 09:18:30+00:00,9,0,Twitter for Android,"RT @_CJMayes: Goal Sequences in Tableau ⚽️ #SportsVizSunday 
+
+https://t.co/zk6sHaSrwa",False,"[{'text': 'SportsVizSunday', 'indices': [43, 59]}]",,False
+Alberto Oraá,_camilb,"Valladolid, España",Data related at @infolabES | Tableau & Alteryx Certified | CrossFit & Football,https://pbs.twimg.com/profile_images/1527382875502354432/FVLYZBz6_normal.jpg,373,385,https://t.co/Z25mQmEmSZ,2023-03-02 07:57:25+00:00,9,0,Twitter for iPhone,"RT @_CJMayes: Goal Sequences in Tableau ⚽️ #SportsVizSunday 
+
+https://t.co/zk6sHaSrwa",False,"[{'text': 'SportsVizSunday', 'indices': [43, 59]}]",,False
+CJ Mayes,_CJMayes,"London, UK",https://t.co/ITRPJUaFVr | Tableau Visionary & Ambassador | #SportsVizSunday | @JLL,https://pbs.twimg.com/profile_images/1631416501721874433/fDSWIvFL_normal.jpg,1901,4205,https://t.co/ymums8NRjv,2023-03-02 07:51:39+00:00,9,53,Twitter for iPhone,"Goal Sequences in Tableau ⚽️ #SportsVizSunday 
+
+https://t.co/zk6sHaSrwa",False,"[{'text': 'SportsVizSunday', 'indices': [29, 45]}]",,False
+Mike Marr,vizkrieg,,Insights at speed -Mach Schnell!,https://pbs.twimg.com/profile_images/1197354475687727108/TGg6aBEb_normal.jpg,290,99,,2023-02-27 13:51:26+00:00,0,5,Twitter Web App,@DocKevinElder @tableaupublic Sports Viz Sunday has lots of data on github - https://t.co/WaZzLnNd4a and these guys… https://t.co/2r3RiuZcLv,True,[],1978816994.0,False
+Will Sutton,WJSutton12,"London, England",#IronViz 2022 Champion | #Tableau Visionary | @tableaupublic Ambassador | Consultant at @infolabUK | 9 x #VizOfTheDay | #GamesNightViz,https://pbs.twimg.com/profile_images/1538979672314232832/VOPcgotu_normal.jpg,1047,2710,https://t.co/EfdjVnho3e,2023-02-26 20:54:24+00:00,0,4,Twitter Web App,"If you liked that viz check out the collab datasets we have available with #SportsVizSunday 🏅
 Check out their lates… https://t.co/eU2HXPCdgA",True,"[{'text': 'SportsVizSunday', 'indices': [75, 91]}]",905540966.0,True
-Khalid Amribet,mavenviz,,Marketing Analyst & Dataviz lover,https://pbs.twimg.com/profile_images/1516568493591871500/TY-urF18_normal.jpg,306,124,,2023-02-26 13:33:11+00:00,2,0,Twitter for Android,"RT @mrroweuk: #Sportsvizsunday - weekly round-up
+Alex Ole Melita,ole_melita,"Nairobi, Kenya",#DataScience #Statistics #Analytics #MachineLearning #SQL #Python #DataViz #DatArt #Tableau #Github #PredictiveModelling.,https://pbs.twimg.com/profile_images/1578048732100182019/g0GCXjcr_normal.jpg,140,46,https://t.co/FioxM5piz4,2023-02-26 18:15:39+00:00,0,4,Twitter Web App,"Here is my @Tableau #Dataviz entry to the #Sportsvizsunday on @Arsenal league performance throughout the years. 
+https://t.co/cx5IWaXHxW",False,"[{'text': 'Dataviz', 'indices': [20, 28]}, {'text': 'Sportsvizsunday', 'indices': [42, 58]}]",,False
+Khalid Amribet,mavenviz,,Marketing Analyst & Dataviz lover,https://pbs.twimg.com/profile_images/1516568493591871500/TY-urF18_normal.jpg,338,139,,2023-02-26 13:33:11+00:00,3,0,Twitter for Android,"RT @mrroweuk: #Sportsvizsunday - weekly round-up
 
 Want to see fantastic vizzes covering the world of
 
 Football ⚽️
 American Sports 🏈⚾️🏒🏀
 Gol…",False,"[{'text': 'Sportsvizsunday', 'indices': [14, 30]}]",,False
-Kevin Flerlage,FlerlageKev,"Burlington, KY","4X Tableau Visionary (formerly known as Zen Master) | 4X Tableau Public Ambassador | https://t.co/0Pu72w5XLc | Mgr, Business Intelligence | God Loving | Views My Own",https://pbs.twimg.com/profile_images/1493239849532461061/8obCBPiX_normal.jpg,3110,14377,https://t.co/Hd8LBAnQlx,2023-02-26 13:15:48+00:00,2,0,Twitter for iPhone,"RT @mrroweuk: #Sportsvizsunday - weekly round-up
+Kevin Flerlage,FlerlageKev,"Burlington, KY","4X Tableau Visionary (formerly known as Zen Master) | 4X Tableau Public Ambassador | https://t.co/0Pu72w5XLc | Mgr, Business Intelligence | God Loving | Views My Own",https://pbs.twimg.com/profile_images/1493239849532461061/8obCBPiX_normal.jpg,3149,14426,https://t.co/Hd8LBAnQlx,2023-02-26 13:15:48+00:00,3,0,Twitter for iPhone,"RT @mrroweuk: #Sportsvizsunday - weekly round-up
 
 Want to see fantastic vizzes covering the world of
 
 Football ⚽️
 American Sports 🏈⚾️🏒🏀
 Gol…",False,"[{'text': 'Sportsvizsunday', 'indices': [14, 30]}]",,False
-Simon Rowe,mrroweuk,London,data storyteller and @tableau enthusiast | Tableau Desktop Certified Associate | 4 x #VOTD | @tonbridgeangels | Views are my own,https://pbs.twimg.com/profile_images/2363957398/image_normal.jpg,1699,1858,https://t.co/WrO1tFL0a5,2023-02-26 10:11:09+00:00,2,14,Twitter Web App,"#Sportsvizsunday - weekly round-up
+Simon Rowe,mrroweuk,London,data storyteller and @tableau enthusiast | Tableau Desktop Certified Associate | 4 x #VOTD | @tonbridgeangels | Views are my own,https://pbs.twimg.com/profile_images/2363957398/image_normal.jpg,1702,1865,https://t.co/WrO1tFL0a5,2023-02-26 10:11:09+00:00,3,19,Twitter Web App,"#Sportsvizsunday - weekly round-up
 
 Want to see fantastic vizzes covering the world of
 
 Football ⚽️
 American Sports… https://t.co/ZmLrTYO1Wc",True,"[{'text': 'Sportsvizsunday', 'indices': [0, 16]}]",,False
-Mo Wootten,mo_wootten,"London, England",Senior Analyst in Sport + #Tableau Public Ambassador 2022 + #SportsVizSunday + #T1D = me  |  1 x VOTD  |  Views are my own.,https://pbs.twimg.com/profile_images/1285647484681965568/cUYirJgz_normal.jpg,1159,765,,2023-02-24 23:50:16+00:00,0,0,Twitter for iPhone,@_Lorna_Brown @TheHodge @SuperLeague Love this Lorna 🙂 great repeated bars! (Would you call it small multiples when… https://t.co/EKrGk5fgGj,True,[],4341493221.0,False
-Mo Wootten,mo_wootten,"London, England",Senior Analyst in Sport + #Tableau Public Ambassador 2022 + #SportsVizSunday + #T1D = me  |  1 x VOTD  |  Views are my own.,https://pbs.twimg.com/profile_images/1285647484681965568/cUYirJgz_normal.jpg,1159,765,,2023-02-24 23:47:00+00:00,0,0,Twitter for iPhone,"@StatHunting Great thread Steve. I really don’t know much about MLB so perhaps I can use this as a way in 😄
+Mo Wootten,mo_wootten,"London, England",Senior Analyst in Sport + #Tableau Public Ambassador 2022 + #SportsVizSunday + #T1D = me  |  1 x VOTD  |  Views are my own.,https://pbs.twimg.com/profile_images/1285647484681965568/cUYirJgz_normal.jpg,1160,774,,2023-02-24 23:50:16+00:00,0,0,Twitter for iPhone,@_Lorna_Brown @TheHodge @SuperLeague Love this Lorna 🙂 great repeated bars! (Would you call it small multiples when… https://t.co/EKrGk5fgGj,True,[],4341493221.0,False
+Mo Wootten,mo_wootten,"London, England",Senior Analyst in Sport + #Tableau Public Ambassador 2022 + #SportsVizSunday + #T1D = me  |  1 x VOTD  |  Views are my own.,https://pbs.twimg.com/profile_images/1285647484681965568/cUYirJgz_normal.jpg,1160,774,,2023-02-24 23:47:00+00:00,0,0,Twitter for iPhone,"@StatHunting Great thread Steve. I really don’t know much about MLB so perhaps I can use this as a way in 😄
 
 #SportsVizSunday",False,"[{'text': 'SportsVizSunday', 'indices': [109, 125]}]",481431845.0,False
-Viz,AnalystViz,,,https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,1132,73,,2023-02-23 13:29:03+00:00,7,0,Twitter for Android,"RT @mavenviz: Hello #datafam  
-Check out my latest viz related to Ballon d'Or. As a sports and data enthusiast, this was an exciting exerci…",False,"[{'text': 'datafam', 'indices': [20, 28]}]",,False
-𝕊𝕙𝕒𝕞𝕤𝕦𝕕𝕖𝕖𝕟✨,Royaldeen100,"Lagos, Nigeria",•Data Scientist 📊•Serial Entrepreneur • Capitalist🤑• Student of Knowledge📿•Watchgeek⌚•Madridsta⚪,https://pbs.twimg.com/profile_images/1483490453240561668/v8ffdKhP_normal.jpg,614,390,https://t.co/XVBg6Sy3WP,2023-02-23 05:35:19+00:00,7,0,Twitter for Android,"RT @mavenviz: Hello #datafam  
-Check out my latest viz related to Ballon d'Or. As a sports and data enthusiast, this was an exciting exerci…",False,"[{'text': 'datafam', 'indices': [20, 28]}]",,False
-Raul Finol,RaulFinol,"Toronto, Ontario",Co-Founder and CFO of @wingmensports,https://pbs.twimg.com/profile_images/1324456678792794117/VxTSa83b_normal.jpg,742,120,https://t.co/eIHgJxjMtS,2023-02-23 03:47:16+00:00,7,0,Twitter Web App,"RT @mavenviz: Hello #datafam  
-Check out my latest viz related to Ballon d'Or. As a sports and data enthusiast, this was an exciting exerci…",False,"[{'text': 'datafam', 'indices': [20, 28]}]",,False
-Anmol Durgapal,slothfulwave612,India,🦥,https://pbs.twimg.com/profile_images/1426544064581668867/_5qvXvqn_normal.jpg,1655,2053,,2023-02-23 03:36:52+00:00,7,0,Twitter for Android,"RT @mavenviz: Hello #datafam  
-Check out my latest viz related to Ballon d'Or. As a sports and data enthusiast, this was an exciting exerci…",False,"[{'text': 'datafam', 'indices': [20, 28]}]",,False
-Yahya Rashwan,Rush1_Analytics,,"Software developer by day, Football analyst by night 👨‍💻⚽📊 | Football Data Journalist @BTLvid | @AlAhlyEnglish Loyal fan 🦅 | #JFT74",https://pbs.twimg.com/profile_images/1607680732318650368/OaIHkNYA_normal.jpg,601,738,https://t.co/vL2ta01Kmf,2023-02-22 20:21:55+00:00,7,0,Twitter for Android,"RT @mavenviz: Hello #datafam  
-Check out my latest viz related to Ballon d'Or. As a sports and data enthusiast, this was an exciting exerci…",False,"[{'text': 'datafam', 'indices': [20, 28]}]",,False
-Mo Wootten,mo_wootten,"London, England",Senior Analyst in Sport + #Tableau Public Ambassador 2022 + #SportsVizSunday + #T1D = me  |  1 x VOTD  |  Views are my own.,https://pbs.twimg.com/profile_images/1285647484681965568/cUYirJgz_normal.jpg,1159,765,,2023-02-22 20:21:12+00:00,0,1,Twitter for iPhone,"@SportingVizBen @F1 @redbullracing @tableau @figma This is very cool Ben! Interesting analysis too, I didn’t know t… https://t.co/SjHEhuYCKb",True,[],8.399258057990595e+17,False
-Adans Adpool ✠,a9souza,,,https://pbs.twimg.com/profile_images/1559192410244227072/ffYLwZbe_normal.jpg,910,125,,2023-02-22 18:08:44+00:00,7,0,Twitter Web App,"RT @mavenviz: Hello #datafam  
-Check out my latest viz related to Ballon d'Or. As a sports and data enthusiast, this was an exciting exerci…",False,"[{'text': 'datafam', 'indices': [20, 28]}]",,False
-Damola Ladipo 🐢,AdedamolaLadipo,"Washington, DC",#DataViz Specialist | 7 x #VizOfTheDay | ‘22 Tableau Public Ambassador | #COYI,https://pbs.twimg.com/profile_images/1558080119163559936/KVPfvSNq_normal.jpg,2702,1748,https://t.co/5Xxw6SWbjJ,2023-02-22 17:37:10+00:00,7,0,Twitter for iPhone,"RT @mavenviz: Hello #datafam  
-Check out my latest viz related to Ballon d'Or. As a sports and data enthusiast, this was an exciting exerci…",False,"[{'text': 'datafam', 'indices': [20, 28]}]",,False
-Khalid Amribet,mavenviz,,Marketing Analyst & Dataviz lover,https://pbs.twimg.com/profile_images/1516568493591871500/TY-urF18_normal.jpg,306,124,,2023-02-22 16:31:58+00:00,7,74,Twitter Web App,"Hello #datafam  
-Check out my latest viz related to Ballon d'Or. As a sports and data enthusiast, this was an excit… https://t.co/gOJhFDaq3G",True,"[{'text': 'datafam', 'indices': [6, 14]}]",,False
-Pradeep Kumar G,pradeep_zen,India,3x Tableau Public Ambassador / #IronViz'21 Finalist / 2x Vizzie Awards / 10x #VizOfTheDay / #IIBAwards'22 Bronze / 3rd Most Favorited Author on #TableauPublic,https://pbs.twimg.com/profile_images/1611346256491593728/XKzzXPmB_normal.jpg,899,4249,https://t.co/ZFnN3XRrpr,2023-02-22 05:10:51+00:00,4,0,Twitter for Android,RT @FlerlageKev: Jon Rahm won this weekend and regained his #1 ranking on the @PGATOUR. I was curious about who had held the number one spo…,False,[],,False
-Britton Staniar,BrittTweets,Seattle,D❤ta. Community Program Manager at Tableau Software.,https://pbs.twimg.com/profile_images/864131597959700481/pWPaIBa8_normal.jpg,4979,1716,,2023-02-21 22:57:25+00:00,4,0,Twitter Web App,RT @FlerlageKev: Jon Rahm won this weekend and regained his #1 ranking on the @PGATOUR. I was curious about who had held the number one spo…,False,[],,False
-Adans Adpool ✠,a9souza,,,https://pbs.twimg.com/profile_images/1559192410244227072/ffYLwZbe_normal.jpg,910,125,,2023-02-21 20:27:44+00:00,4,0,Twitter for Android,RT @FlerlageKev: Jon Rahm won this weekend and regained his #1 ranking on the @PGATOUR. I was curious about who had held the number one spo…,False,[],,False
-CJ Mayes,_CJMayes,"London, UK",https://t.co/nJKtO16SZH | Tableau Visionary & Ambassador | #SportsVizSunday | @JLL,https://pbs.twimg.com/profile_images/1387386576284569602/iewnImUb_normal.jpg,1896,4191,https://t.co/ymums8NRjv,2023-02-21 16:07:50+00:00,4,0,Twitter Web App,RT @FlerlageKev: Jon Rahm won this weekend and regained his #1 ranking on the @PGATOUR. I was curious about who had held the number one spo…,False,[],,False
-Rajeev Pandey,rajvivan,Kuala Lumpur City,2×GCP | 1xTerraform | 3xTableau Zen Master | 5xTableau Public Ambassador | HYD & KUL TUG CO-leader | Alteryx certified | https://t.co/KI8DgUios0,https://pbs.twimg.com/profile_images/1589882376343420928/zx1Okxgm_normal.jpg,2483,2298,https://t.co/w3nhO2Jpub,2023-02-21 15:29:30+00:00,11,0,Twitter for iPhone,"RT @SimonBeaumont04: 🥳 @tableaupublic viz number 200!
-
-#SportsVizSunday : The @FairGameUK Sustainability Index
-
-Nearly 6 years after publis…",False,"[{'text': 'SportsVizSunday', 'indices': [55, 71]}]",,False
-Kevin Flerlage,FlerlageKev,"Burlington, KY","4X Tableau Visionary (formerly known as Zen Master) | 4X Tableau Public Ambassador | https://t.co/0Pu72w5XLc | Mgr, Business Intelligence | God Loving | Views My Own",https://pbs.twimg.com/profile_images/1493239849532461061/8obCBPiX_normal.jpg,3110,14377,https://t.co/Hd8LBAnQlx,2023-02-21 15:13:04+00:00,4,48,Twitter Web App,Jon Rahm won this weekend and regained his #1 ranking on the @PGATOUR. I was curious about who had held the number… https://t.co/ecGlqA0IJt,True,[],,False
-Javier Ainstein,JavierAinstein,Buenos Aires/Panama,,https://pbs.twimg.com/profile_images/1568779846427238402/kdjytFNA_normal.jpg,4389,8863,,2023-02-21 13:24:10+00:00,1,0,Twitter for iPad,"RT @_CJMayes: How to create pass networks using Tableau &amp; Alteryx #SportsVizSunday
-
-https://t.co/37V4waXK0T",False,"[{'text': 'SportsVizSunday', 'indices': [70, 86]}]",,False
-Rstats,rstatstweet,,I retweet #rstats stuff. Maintained by @justin_ct_ho.,https://pbs.twimg.com/profile_images/1011818295916417025/P1CkbdYi_normal.jpg,31,27710,,2023-02-21 05:01:23+00:00,1,0,rstatsretweetingtool,"RT @joe_chelladurai: A twist on a bar chart to depict a tight English Premier League season.
-
-#rstats #epl #SportsVizSunday #Arsenal #MUFC…",False,"[{'text': 'rstats', 'indices': [94, 101]}, {'text': 'epl', 'indices': [102, 106]}, {'text': 'SportsVizSunday', 'indices': [107, 123]}, {'text': 'Arsenal', 'indices': [124, 132]}, {'text': 'MUFC', 'indices': [133, 138]}]",,False
-Joe Chelladurai,joe_chelladurai,,#rstats,https://pbs.twimg.com/profile_images/1616532489228681217/ngyml-UI_normal.jpg,218,12,,2023-02-21 04:50:26+00:00,1,2,Twitter Web App,"A twist on a bar chart to depict a tight English Premier League season.
-
-#rstats #epl #SportsVizSunday #Arsenal… https://t.co/5ivO7IQoKn",True,"[{'text': 'rstats', 'indices': [73, 80]}, {'text': 'epl', 'indices': [81, 85]}, {'text': 'SportsVizSunday', 'indices': [86, 102]}, {'text': 'Arsenal', 'indices': [103, 111]}]",,False
-CJ Mayes,_CJMayes,"London, UK",https://t.co/nJKtO16SZH | Tableau Visionary & Ambassador | #SportsVizSunday | @JLL,https://pbs.twimg.com/profile_images/1387386576284569602/iewnImUb_normal.jpg,1896,4191,https://t.co/ymums8NRjv,2023-02-20 11:42:23+00:00,1,41,Twitter Web App,"How to create pass networks using Tableau &amp; Alteryx #SportsVizSunday
-
-https://t.co/37V4waXK0T",False,"[{'text': 'SportsVizSunday', 'indices': [56, 72]}]",,False
-Dzifa,datadzif,always cheesin😁,"tableau social ambassador • certified gif enthusiast •💖data, bubble tea, memes, & bad reality TV🤩 • tweets about tableau + data viz + random • she/her 🇬🇭✨",https://pbs.twimg.com/profile_images/1537977305049337857/FR9_-zun_normal.jpg,2182,2419,https://t.co/7yTTqgD4Em,2023-02-20 01:12:31+00:00,5,0,Twitter for iPhone,"RT @_CJMayes: Set your Sunday up for success - check out this weeks #SportsVizSunday 🏈⚽️🏀🎾 
-
-https://t.co/nB9vRn4pFc",False,"[{'text': 'SportsVizSunday', 'indices': [68, 84]}]",,False
-Samuel Epley,EpleySamuel,"Hopkins, MN","Sports Fanatic, Husband & Hockey Dad | @Tableau Certified Professional | @TableauPublic Featured Author | 4-time #VOTD | Trailhead Double-Star Ranger",https://pbs.twimg.com/profile_images/1627901277739835393/TkF0iVfD_normal.jpg,1011,1216,https://t.co/NeDiBUdZHm,2023-02-20 00:31:25+00:00,0,2,Twitter for iPhone,Congratulations to everyone featured in this weeks #SportsVizSunday Roundup! #DataFam https://t.co/i5JsTDqYHr,False,"[{'text': 'SportsVizSunday', 'indices': [51, 67]}, {'text': 'DataFam', 'indices': [77, 85]}]",,True
-Matt Skinner,Skinmatt28,,"Probably the biggest American domestic soccer fan you know. A true sicko for USL/ MLS/ USMNT. Girl dad.
-All views are my own.",https://pbs.twimg.com/profile_images/1610795260514279424/ff19rLNX_normal.jpg,731,214,,2023-02-19 22:36:23+00:00,3,0,Twitter for Android,"RT @boknowsdata: I remixed this graphic in @tableau to add:
--#MLS (3rd highest avg. attendance!) 
--context re: capacity
--interactivity (htt…",False,"[{'text': 'MLS', 'indices': [61, 65]}]",,True
-DataVizMich,mich_data,,"Data Viz in Sport
-Instagram - https://t.co/uovzhAO0jt
-Github - https://t.co/4N2JKGxxxv",https://pbs.twimg.com/profile_images/1426456929111576580/03tnVrCs_normal.jpg,109,81,,2023-02-19 22:08:34+00:00,5,0,Twitter Web App,"RT @_CJMayes: Set your Sunday up for success - check out this weeks #SportsVizSunday 🏈⚽️🏀🎾 
-
-https://t.co/nB9vRn4pFc",False,"[{'text': 'SportsVizSunday', 'indices': [68, 84]}]",,False
-Mo Wootten,mo_wootten,"London, England",Senior Analyst in Sport + #Tableau Public Ambassador 2022 + #SportsVizSunday + #T1D = me  |  1 x VOTD  |  Views are my own.,https://pbs.twimg.com/profile_images/1285647484681965568/cUYirJgz_normal.jpg,1159,765,,2023-02-19 21:51:54+00:00,3,0,Twitter for iPhone,"RT @boknowsdata: I remixed this graphic in @tableau to add:
--#MLS (3rd highest avg. attendance!) 
--context re: capacity
--interactivity (htt…",False,"[{'text': 'MLS', 'indices': [61, 65]}]",,True
-Bo McCready,boknowsdata,"Austin, TX",I make #dataviz at . Tableau Public Ambassador. #VOTD x9. @UWMadEducation Ph.D. + @UWLaFollette MPA. Ex-@mmsdschools. @AustinFC ST holder. Views mine.,https://pbs.twimg.com/profile_images/1293900955700928512/Xk5-lD6r_normal.jpg,2786,4612,,2023-02-19 21:47:01+00:00,3,48,Twitter Web App,"I remixed this graphic in @tableau to add:
--#MLS (3rd highest avg. attendance!) 
--context re: capacity
--interactivi… https://t.co/gQ5feXRSsm",True,"[{'text': 'MLS', 'indices': [44, 48]}]",,True
-Simon Rowe,mrroweuk,London,data storyteller and @tableau enthusiast | Tableau Desktop Certified Associate | 4 x #VOTD | @tonbridgeangels | Views are my own,https://pbs.twimg.com/profile_images/2363957398/image_normal.jpg,1699,1858,https://t.co/WrO1tFL0a5,2023-02-19 19:09:27+00:00,0,4,Twitter for iPhone,Close out the weekend with a read of the latest #sportsvizsunday round-up 👇🏻 https://t.co/V06tJhR1rL,False,"[{'text': 'sportsvizsunday', 'indices': [48, 64]}]",,True
-Luigi Cicciari,SpotOn_DRTV,"Oceanside, CA",#DRTV Data-Driven Media | San Diego TUG Lead | #DataFam | #TableauNext 2023 | #VOTD | #LMU Alum | #AMDG | #TwinDad | ASD Dad | Scouting | Student Pilot,https://pbs.twimg.com/profile_images/1613580877329764353/OnuqqJko_normal.jpg,3430,2898,https://t.co/5liOGoZl1q,2023-02-19 18:24:47+00:00,5,0,Twitter for iPhone,"RT @_CJMayes: Set your Sunday up for success - check out this weeks #SportsVizSunday 🏈⚽️🏀🎾 
-
-https://t.co/nB9vRn4pFc",False,"[{'text': 'SportsVizSunday', 'indices': [68, 84]}]",,False
-Chimdi Nwosu,menscuriosa,BC Canada,Dataviz 😍 | 2 x Tableau Public Ambassador | 7 × #VOTD | 6 x Vizzies | https://t.co/H59ouL3fFW | VizSight Analytics Inc. 📈 | Co-lead @DuboisChallenge and @AnalyticsTug,https://pbs.twimg.com/profile_images/1447290504995958786/ASQSzfGh_normal.jpg,1429,3852,https://t.co/f3py2BpWkQ,2023-02-19 17:04:02+00:00,5,0,Twitter Web App,"RT @_CJMayes: Set your Sunday up for success - check out this weeks #SportsVizSunday 🏈⚽️🏀🎾 
-
-https://t.co/nB9vRn4pFc",False,"[{'text': 'SportsVizSunday', 'indices': [68, 84]}]",,False
-Mo Wootten,mo_wootten,"London, England",Senior Analyst in Sport + #Tableau Public Ambassador 2022 + #SportsVizSunday + #T1D = me  |  1 x VOTD  |  Views are my own.,https://pbs.twimg.com/profile_images/1285647484681965568/cUYirJgz_normal.jpg,1159,765,,2023-02-19 15:15:25+00:00,0,2,Twitter for iPhone,"While the sun’s practising being out, why don’t you grab a cup of tea and head outside to read this week’s… https://t.co/563QPIZAMY",True,[],,True
-CJ Mayes,_CJMayes,"London, UK",https://t.co/nJKtO16SZH | Tableau Visionary & Ambassador | #SportsVizSunday | @JLL,https://pbs.twimg.com/profile_images/1387386576284569602/iewnImUb_normal.jpg,1896,4191,https://t.co/ymums8NRjv,2023-02-19 10:13:46+00:00,5,39,Twitter Web App,"Set your Sunday up for success - check out this weeks #SportsVizSunday 🏈⚽️🏀🎾 
-
-https://t.co/nB9vRn4pFc",False,"[{'text': 'SportsVizSunday', 'indices': [54, 70]}]",,False
